@@ -30,9 +30,9 @@ Projeto desenvolvido no âmbito da unidade curricular **Inteligência Artificial
 - **Data Understanding:** análise exploratória, séries temporais e heatmaps horário × dia da semana  
 - **Data Preparation:** criação de variáveis agregadas por CPE (médias, máximos, percentis, variabilidade, etc.)
 - **Modeling:**
-  - K-Means + PCA (clustering)
-  - ARIMA (previsão temporal)
-  - Random Forest (aprendizagem supervisionada)
+  - K-Means, DBSCAN, GMM (clustering)
+  - ARIMA, LSTM (previsão temporal)
+  - Random Forest, MLP (aprendizagem supervisionada)
 - **Evaluation:** comparação com baselines e análise do impacto da normalização
 
 ---
