@@ -21,6 +21,12 @@ Projeto desenvolvido no âmbito da unidade curricular **Inteligência Artificial
 
 **├── IAA_Relatório.docx # Relatório final**
 
+**├── df_prep_sample.csv #Amostra	Dados limpos, interpolados e regularizados a 15 min**
+
+**├── df_rf.csv #Dataset supervisionado por CPE (features → semana futura)**
+
+**├── cluster_gmm.csv # cluster_gmm	Cluster GMM atribuído a cada CPE**
+
 **├── README.md # Descrição do p rojeto**
 
 ---
